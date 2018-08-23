@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Heisler.unity
-    guid: 1af04a5218def344eae8e84d0d84eb47
+    path: Assets/Scenes/mainScene.unity
+    guid: 1a6cbf57487fb6b46919dd7600a25ce9
   m_configObjects: {}

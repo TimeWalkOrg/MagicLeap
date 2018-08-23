@@ -10,8 +10,10 @@ public class TestController : MonoBehaviour {
     public MLInputController _controller; 
     public GameObject Info;
     public GameObject MainCamera;
-    public GameObject Rain;
-	public AudioSource RainSound;
+    public GameObject Object01;
+    public GameObject Object02;
+    public GameObject Object03;
+    public AudioSource TrainSound;
     #endregion
 
     #region Private Variables
@@ -49,6 +51,7 @@ public class TestController : MonoBehaviour {
         }
         else {
             checkBumper();
+            checkTrigger();
         }
         checkHomeButton();
         resetFlags();
@@ -59,16 +62,34 @@ public class TestController : MonoBehaviour {
     void setInfoState(bool state) {
         _infoMode = state;
         if (_infoMode) {
-            Rain.SetActive(false);
-			RainSound.Stop();
+            Object01.SetActive(false);
+            Object02.SetActive(false);
+            Object03.SetActive(false);
+            //TrainSound.Stop();
             _instructions.NextPage(true);
             _vignette.Reset();
         }
-        else {
-            Rain.SetActive(true);
-			RainSound.Play();
-            _vignette.ToggleVignetteState();
-        }
+        else if (Object01.activeSelf)
+            {
+                Object01.SetActive(false);
+                Object02.SetActive(true);
+                Object03.SetActive(false);
+            }
+        else if (Object02.activeSelf)
+            {
+                Object01.SetActive(false);
+                Object02.SetActive(false);
+                Object03.SetActive(true);
+            }
+        else
+            {
+                Object01.SetActive(true);
+                Object02.SetActive(false);
+                Object03.SetActive(false);
+            }
+        //TrainSound.Play();
+        //_vignette.ToggleVignetteState();
+        _vignette.Reset();
     }
     private void resetFlags() {
         _homeButtonUp = false;
@@ -76,7 +97,8 @@ public class TestController : MonoBehaviour {
     }
     private void checkHomeButton() {
         if (_homeButtonUp) {
-            setInfoState(true);
+            Application.Quit();
+            // setInfoState(true);
         }
     }
     private void checkBumper() {
