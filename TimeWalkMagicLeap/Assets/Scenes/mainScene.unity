@@ -4877,7 +4877,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 124142976}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.16175556, y: -0.025383234, z: -0.5520259}
+  m_LocalPosition: {x: 0.8782449, y: -0.025383234, z: -0.49202573}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1955982524}
@@ -4981,7 +4981,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400008, guid: 7856fd37b4ebb344ea13d8082677b62e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.38293082
+      value: 7.8300004
       objectReference: {fileID: 0}
     - target: {fileID: 400008, guid: 7856fd37b4ebb344ea13d8082677b62e, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4989,7 +4989,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400008, guid: 7856fd37b4ebb344ea13d8082677b62e, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2.5119638
+      value: -2.4519637
       objectReference: {fileID: 0}
     - target: {fileID: 400008, guid: 7856fd37b4ebb344ea13d8082677b62e, type: 3}
       propertyPath: m_LocalRotation.x
@@ -5031,7 +5031,8 @@ Prefab:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 9500000, guid: 7856fd37b4ebb344ea13d8082677b62e, type: 3}
   m_ParentPrefab: {fileID: 100100000, guid: 7856fd37b4ebb344ea13d8082677b62e, type: 3}
   m_IsPrefabParent: 0
 --- !u!1 &160637358
@@ -10194,7 +10195,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4471289357199728, guid: 2e56d80e1b83d3649bf8ceb8867bf689, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 0.14
+      value: 1.18
       objectReference: {fileID: 0}
     - target: {fileID: 4471289357199728, guid: 2e56d80e1b83d3649bf8ceb8867bf689, type: 2}
       propertyPath: m_LocalPosition.y
@@ -10202,7 +10203,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4471289357199728, guid: 2e56d80e1b83d3649bf8ceb8867bf689, type: 2}
       propertyPath: m_LocalPosition.z
-      value: -2.9
+      value: -2.84
       objectReference: {fileID: 0}
     - target: {fileID: 4471289357199728, guid: 2e56d80e1b83d3649bf8ceb8867bf689, type: 2}
       propertyPath: m_LocalRotation.x
@@ -10520,7 +10521,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: f1a6fcc108d2446f6b5f724ad6ff862e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.2989999
+      value: 1.3390003
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f1a6fcc108d2446f6b5f724ad6ff862e, type: 3}
       propertyPath: m_LocalPosition.y
@@ -10528,7 +10529,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f1a6fcc108d2446f6b5f724ad6ff862e, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2.853001
+      value: -2.793001
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f1a6fcc108d2446f6b5f724ad6ff862e, type: 3}
       propertyPath: m_LocalRotation.x
@@ -10743,8 +10744,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Info: {fileID: 542680568}
   MainCamera: {fileID: 570607319}
-  Object01: {fileID: 1885711925}
-  Object02: {fileID: 1310371599}
+  Object01: {fileID: 1310371599}
+  Object02: {fileID: 1885711925}
   Object03: {fileID: 1259454436}
   TrainSound: {fileID: 570607325}
 --- !u!4 &1461463958
@@ -15699,7 +15700,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: c97352c1a754f864f935a82124fadeea, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.795
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -15743,7 +15744,7 @@ AudioSource:
     m_Curve:
     - serializedVersion: 3
       time: 0
-      value: 0
+      value: 0.991
       inSlope: 0
       outSlope: 0
       tangentMode: 0
@@ -15783,6 +15784,24 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!95 &1885711927
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1885711925}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 7856fd37b4ebb344ea13d8082677b62e, type: 3}
+  m_Controller: {fileID: 9100000, guid: 518c9ae8b10ad5e4ea44cd213b35f62f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1955982523
 GameObject:
   m_ObjectHideFlags: 0
