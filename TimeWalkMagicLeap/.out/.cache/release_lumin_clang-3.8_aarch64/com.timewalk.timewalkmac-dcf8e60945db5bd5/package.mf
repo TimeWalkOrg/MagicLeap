@@ -179,7 +179,7 @@
   },
   {
    "compression": 8,
-   "hash": "268efc7b181c458f902ec513cd1e71e76bfba16c",
+   "hash": "b2c8e617b306c52eb8187bc31e8e09d450874814",
    "pkgpath": "Data/globalgamemanagers",
    "size": 40448,
    "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Data/globalgamemanagers"
@@ -200,9 +200,9 @@
   },
   {
    "compression": 8,
-   "hash": "0da5e3a2010de986d1e926a92b06905224929c06",
+   "hash": "79c216b9eff03c81e1e1b8439abaeddd6b101fee",
    "pkgpath": "Data/level0",
-   "size": 203344,
+   "size": 195992,
    "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Data/level0"
   },
   {
@@ -214,24 +214,73 @@
   },
   {
    "compression": 8,
-   "hash": "d36af9caee34268089a591ad20175c80a35d464c",
+   "hash": "62a71fb068e5df72af6637c64e8e187d11aa7690",
    "pkgpath": "Data/sharedassets0.assets",
-   "size": 22254316,
+   "size": 22253836,
    "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Data/sharedassets0.assets"
   },
   {
    "compression": 8,
-   "hash": "e2cc84772387d4252bec0964d4f981155b516d5b",
+   "hash": "52357e3a12b32e950310df7c6c667712bf18a3e6",
    "pkgpath": "Data/sharedassets0.assets.resS",
-   "size": 83405108,
+   "size": 83394172,
    "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Data/sharedassets0.assets.resS"
   },
   {
    "compression": 8,
-   "hash": "84c56f0b617367042d59dc66d90f109f29099a6d",
+   "hash": "38cc646d0ed55426b1c9722420542e770ae9b918",
    "pkgpath": "Data/sharedassets0.resource",
-   "size": 2824352,
+   "size": 2832704,
    "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Data/sharedassets0.resource"
+  },
+  {
+   "compression": 8,
+   "hash": "01c7e90361c424f7ca3d9530630761f3a8b8ccc9",
+   "pkgpath": "Icon/Model/Model_UFO.fbx",
+   "size": 1276330,
+   "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Icon/Model/Model_UFO.fbx"
+  },
+  {
+   "compression": 8,
+   "hash": "55842c477d7ee63a403fae2d0704b27eb4882466",
+   "pkgpath": "Icon/Model/Model_UFO.kmat",
+   "size": 419,
+   "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Icon/Model/Model_UFO.kmat"
+  },
+  {
+   "compression": 8,
+   "hash": "818cf3fd612b663b2a2d3cd979ddbe413d1e6ed6",
+   "pkgpath": "Icon/Model/Model_UFO_Albedo.png",
+   "size": 733,
+   "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Icon/Model/Model_UFO_Albedo.png"
+  },
+  {
+   "compression": 8,
+   "hash": "ccea018acd246a4056b49ae812371627b4ebb0ea",
+   "pkgpath": "Icon/Model/Model_UFO_Albedo_Ring.png",
+   "size": 177,
+   "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Icon/Model/Model_UFO_Albedo_Ring.png"
+  },
+  {
+   "compression": 8,
+   "hash": "8311a5036128d25b92db2c879dcaa303dfc4d744",
+   "pkgpath": "Icon/Portal/InsidePortal_SkySphere.fbx",
+   "size": 172016,
+   "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Icon/Portal/InsidePortal_SkySphere.fbx"
+  },
+  {
+   "compression": 8,
+   "hash": "71b01901f47ebedf3222a60b11b1c5b74da1ba34",
+   "pkgpath": "Icon/Portal/InsidePortal_SkySphere.kmat",
+   "size": 250,
+   "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Icon/Portal/InsidePortal_SkySphere.kmat"
+  },
+  {
+   "compression": 8,
+   "hash": "d38efe432f48d3b7f6a2e68be0cd6f12b71ae1a0",
+   "pkgpath": "Icon/Portal/InsidePortal_SkySphere.png",
+   "size": 6249,
+   "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Icon/Portal/InsidePortal_SkySphere.png"
   },
   {
    "compression": 8,

@@ -661,8 +661,10 @@ PlayerSettings:
   cloudServicesEnabled: {}
   luminIcon:
     m_Name: 
-    m_ModelFolderPath: 
-    m_PortalFolderPath: 
+    m_ModelFolderPath: /Users/tedbarnett/Dropbox (barnettlabs)/Work 2017/TimeWalk/Magic
+      Leap dev/Icon folders/Icon/Model
+    m_PortalFolderPath: /Users/tedbarnett/Dropbox (barnettlabs)/Work 2017/TimeWalk/Magic
+      Leap dev/Icon folders/Icon/Portal
   luminCert:
     m_CertPath: /Users/tedbarnett/Dropbox (barnettlabs)/Work 2017/TimeWalk/Magic Leap
       dev/TempSharedCert/TempSharedCert.cert
