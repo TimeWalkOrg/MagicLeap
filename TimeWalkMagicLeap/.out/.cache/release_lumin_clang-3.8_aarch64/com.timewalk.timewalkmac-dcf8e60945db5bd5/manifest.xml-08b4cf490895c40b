@@ -1,0 +1,8 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="temporarycertificates" ml:package="com.timewalk.timewalkmac" ml:version_code="1" ml:version_name="Mac">
+  <application ml:sdk_version="1.0" ml:visible_name="TimeWalk">
+    <uses-privilege ml:name="LowLatencyLightwear" />
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="TimeWalk">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+  </application>
+</manifest>
