@@ -179,7 +179,7 @@
   },
   {
    "compression": 8,
-   "hash": "b2c8e617b306c52eb8187bc31e8e09d450874814",
+   "hash": "6110059ba652577fe723aa22a95e02a2db719cf7",
    "pkgpath": "Data/globalgamemanagers",
    "size": 40448,
    "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Data/globalgamemanagers"
@@ -200,9 +200,9 @@
   },
   {
    "compression": 8,
-   "hash": "79c216b9eff03c81e1e1b8439abaeddd6b101fee",
+   "hash": "4c201a2f977a68ff7c325ad31d737907e6505a20",
    "pkgpath": "Data/level0",
-   "size": 195992,
+   "size": 196536,
    "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Data/level0"
   },
   {
@@ -214,9 +214,9 @@
   },
   {
    "compression": 8,
-   "hash": "62a71fb068e5df72af6637c64e8e187d11aa7690",
+   "hash": "ed0c8519fb8e6c1d8f642621c309bc53027669d5",
    "pkgpath": "Data/sharedassets0.assets",
-   "size": 22253836,
+   "size": 22253988,
    "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Data/sharedassets0.assets"
   },
   {
@@ -228,9 +228,9 @@
   },
   {
    "compression": 8,
-   "hash": "38cc646d0ed55426b1c9722420542e770ae9b918",
+   "hash": "62cb6f7eaacbe9a22a9c1d1b9d3979abfb4070d6",
    "pkgpath": "Data/sharedassets0.resource",
-   "size": 2832704,
+   "size": 3608736,
    "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Data/sharedassets0.resource"
   },
   {
