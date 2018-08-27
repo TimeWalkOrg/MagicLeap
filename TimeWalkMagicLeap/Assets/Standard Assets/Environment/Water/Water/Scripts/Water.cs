@@ -45,7 +45,10 @@ namespace UnityStandardAssets.Water
                 return;
             }
 
-            Camera cam = Camera.current;
+			if (UnityEngine.XR.XRSettings.enabled)
+				waterMode = WaterMode.Simple;
+
+			Camera cam = Camera.current;
             if (!cam)
             {
                 return;

@@ -13,6 +13,7 @@ public class TestController : MonoBehaviour {
     public GameObject Object01;
     public GameObject Object02;
     public GameObject Object03;
+    public GameObject Object04;
     public AudioSource TrainSound;
     #endregion
 
@@ -65,6 +66,7 @@ public class TestController : MonoBehaviour {
             Object01.SetActive(false);
             Object02.SetActive(false);
             Object03.SetActive(false);
+            Object04.SetActive(false);
             //TrainSound.Stop();
             _instructions.NextPage(true);
             _vignette.Reset();
@@ -74,19 +76,29 @@ public class TestController : MonoBehaviour {
                 Object01.SetActive(false);
                 Object02.SetActive(true);
                 Object03.SetActive(false);
-            }
+                Object04.SetActive(false);
+        }
         else if (Object02.activeSelf)
             {
                 Object01.SetActive(false);
                 Object02.SetActive(false);
                 Object03.SetActive(true);
-            }
+                Object04.SetActive(false);
+        }
+        else if (Object03.activeSelf)
+        {
+            Object01.SetActive(false);
+            Object02.SetActive(false);
+            Object03.SetActive(false);
+            Object04.SetActive(true);
+        }
         else
             {
                 Object01.SetActive(true);
                 Object02.SetActive(false);
                 Object03.SetActive(false);
-            }
+                Object04.SetActive(false);
+        }
         //TrainSound.Play();
         //_vignette.ToggleVignetteState();
         _vignette.Reset();

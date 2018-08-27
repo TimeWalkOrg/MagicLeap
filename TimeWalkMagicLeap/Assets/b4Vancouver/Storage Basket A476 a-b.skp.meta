@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: e80fe06d490b6440aa74dbcad29252f1
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 8070eb95e1cb55e2310f4a1725db11ff
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -1.9603528, y: 0.40447652, z: 4.7728376}
+      lookAt: {x: -2.1738582, y: 0.21615563, z: 0.2676612}
+      up: {x: -0.0019748365, y: 0.9991295, z: -0.041671023}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 33.026848
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: _defaultMat
+    2100002: Storage Basket A476 a-b-02#2
+    2100004: Storage Basket A476 a-b-02
+    2100006: Storage Basket A476 a-b-04#3
+    2100008: Storage Basket A476 a-b-04#4
+    2100010: Storage Basket A476 a-b-04#1
+    2100012: Storage Basket A476 a-b-04#6
+    2100014: Storage Basket A476 a-b-04
+    2100016: Storage Basket A476 a-b-04#5
+    2100018: Storage Basket A476 a-b-05#2
+    2100020: Storage Basket A476 a-b-05#1
+    2100022: Storage Basket A476 a-b-02#3
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Mesh Storage Basket A476 a-b
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_Rhomish_Dropbox_Technoir-Before Vancouver_2.3.1 Textures Artifacts_Storage
+        Basket A476 a-b-02
+    second: {fileID: 2800000, guid: dab1a26b9f676479ba9a8b6eea20ee2b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_Rhomish_Dropbox_Technoir-Before Vancouver_2.3.1 Textures Artifacts_Storage
+        Basket A476 a-b-04
+    second: {fileID: 2800000, guid: e55172107a118480f86a93c51d60e551, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Storage Basket A476 a-b-02
+    second: {fileID: 2800000, guid: 61581a1f2b783404e9cf13304d08c02f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Storage Basket A476 a-b-02#1
+    second: {fileID: 2800000, guid: 1278fd9d14dac44be93cda77bffc8a9b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Storage Basket A476 a-b-04
+    second: {fileID: 2800000, guid: 8c92aa67f9a974feeb69c42393bf1b8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Storage Basket A476 a-b-04#2
+    second: {fileID: 2800000, guid: e70675c5378eb4efb868f8646b0f3af9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Storage Basket A476 a-b-05
+    second: {fileID: 2800000, guid: 9c1fc63008c5c4d94b5af98f7f2f2ce3, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

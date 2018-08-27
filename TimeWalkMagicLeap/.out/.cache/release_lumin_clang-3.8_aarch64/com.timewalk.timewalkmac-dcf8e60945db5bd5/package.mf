@@ -21,16 +21,16 @@
   },
   {
    "compression": 8,
-   "hash": "e37b7b31abb20a79be9f5fb8cf63e73ee21dc45a",
+   "hash": "3638c862750805d29377d7f37a047cc2c90437e8",
    "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
-   "size": 3052052,
+   "size": 3096128,
    "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
   },
   {
    "compression": 8,
-   "hash": "f699919ce0c61e8b6d37a85ea7ed8ecd416847a4",
+   "hash": "a368d0b31683d33e004cb0f229947be60f6173e2",
    "pkgpath": "bin/libil2cpp.so",
-   "size": 36642208,
+   "size": 37268728,
    "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Data/Native/libil2cpp.so",
    "xfrm_flags": {
     "signed": {
@@ -41,9 +41,9 @@
      "version": 3
     }
    },
-   "xfrm_hash": "048d1e0b96b7633474f7f7d43116eb828af228ff",
+   "xfrm_hash": "28315f76fff161ef26cf07d2aa081f8f68ba9bd3",
    "xfrm_path": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/.out/.cache/release_lumin_clang-3.8_aarch64/com.timewalk.timewalkmac-dcf8e60945db5bd5/libil2cpp.so-2e3b83a11feafe44",
-   "xfrm_size": 36642966
+   "xfrm_size": 37269486
   },
   {
    "compression": 8,
@@ -179,16 +179,16 @@
   },
   {
    "compression": 8,
-   "hash": "d83f5337e068d1d91cce54e86f0a1a924f0f2b4a",
+   "hash": "c55ff7df6777041f99c153d792d3e16758c978ff",
    "pkgpath": "Data/globalgamemanagers",
-   "size": 40448,
+   "size": 41240,
    "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Data/globalgamemanagers"
   },
   {
    "compression": 8,
-   "hash": "cf78270f367b8a57587cb0dbecac4ebd4bc638ba",
+   "hash": "99e798265423fbb613b40d7a7a802e90dc47e46c",
    "pkgpath": "Data/globalgamemanagers.assets",
-   "size": 60140,
+   "size": 62196,
    "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Data/globalgamemanagers.assets"
   },
   {
@@ -200,9 +200,9 @@
   },
   {
    "compression": 8,
-   "hash": "1eeda5f2e6eb8ed7b655470ffa8b8344ab5eb5e9",
+   "hash": "01536505961726acb3852a3b29c43daee1756075",
    "pkgpath": "Data/level0",
-   "size": 196520,
+   "size": 409968,
    "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Data/level0"
   },
   {
@@ -214,23 +214,23 @@
   },
   {
    "compression": 8,
-   "hash": "62583dc90401b26c63c776795ee317a34856139e",
+   "hash": "5bd3eede56007c707029bd4299e2148c6f456e6f",
    "pkgpath": "Data/sharedassets0.assets",
-   "size": 22254052,
+   "size": 50431300,
    "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Data/sharedassets0.assets"
   },
   {
    "compression": 8,
-   "hash": "52357e3a12b32e950310df7c6c667712bf18a3e6",
+   "hash": "702a633d75edfdb54c0f37320b1131b35662028a",
    "pkgpath": "Data/sharedassets0.assets.resS",
-   "size": 83394172,
+   "size": 88524652,
    "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Data/sharedassets0.assets.resS"
   },
   {
    "compression": 8,
-   "hash": "62cb6f7eaacbe9a22a9c1d1b9d3979abfb4070d6",
+   "hash": "e404ab593e12cc29199b20211251aa9be49bf4b3",
    "pkgpath": "Data/sharedassets0.resource",
-   "size": 3608736,
+   "size": 8044256,
    "src": "/Users/tedbarnett/MagicLeap/TimeWalkMagicLeap/Temp/StagingArea/Data/sharedassets0.resource"
   },
   {

@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 1d3f94da576a24cbc80daa1f07560b36
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000
+  assetHash:
+    serializedVersion: 2
+    Hash: a94dce31ad8b1f177ecec36830f738b0
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.91962767, y: 0.77010936, z: -2.5492892}
+      lookAt: {x: 0.43001953, y: 0.06023817, z: -0.22575349}
+      up: {x: -0.05905739, y: 0.9581031, z: 0.2802689}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 36.704002
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: _defaultMat
+    2100002: Burden Basket A8826-00#1
+    2100004: Burden Basket A8826-01#2
+    2100006: Burden Basket A8826-01#3
+    2100008: Burden Basket A8826-01#4
+    2100010: Burden Basket A8826-01#1
+    2100012: Burden Basket A8826-00
+    2100014: Burden Basket A8826-01#5
+    2100016: Burden Basket A8826-01#7
+    2100018: Burden Basket A8826-01#6
+    2100020: Burden Basket A8826-01#8
+    2100022: Burden Basket A8826-00#2
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Mesh Burden Basket A8826-02
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Burden Basket A8826-00
+    second: {fileID: 2800000, guid: 5a09ceb8bb01d48048b2a68638a7e1dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Burden Basket A8826-01
+    second: {fileID: 2800000, guid: 41ab7212e1697463badc3fb761676f92, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_Rhomish_Dropbox_Technoir-Before Vancouver_2.3.1 Textures Artifacts_Burden
+        Basket A8826-00
+    second: {fileID: 2800000, guid: a529a07cfc719486288601de36317d00, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

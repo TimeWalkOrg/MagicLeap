@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 867d7add7334f4998940d93c44ae2e33
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000020000000300000004000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 69b569c9bf3dd792840a619bebd30d2e
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.82241595, y: 0.61782944, z: -1.2860702}
+      lookAt: {x: 0.4251065, y: 0.40398523, z: -0.6960389}
+      up: {x: -0.16080327, y: 0.95766133, z: 0.23880367}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box
+    100004: Lid
+    400000: //RootNode
+    400002: Box
+    400004: Lid
+    2100000: Bentwood Box 1768_99 a-d-03
+    2100002: Bentwood Box 1768_99 a-d-1#4
+    2100004: Bentwood Box 1768_99 a-d-1#3
+    2100006: Bentwood Box 1768_99 a-d-02#4
+    2100008: Bentwood Box 1768_99 a-d-02#3
+    2100010: Bentwood Box 1768_99 a-d-1
+    2100012: Bentwood Box 1768_99 a-d-1#7
+    2100014: Bentwood Box 1768_99 a-d-02#2
+    2100016: Bentwood Box 1768_99 a-d-02#7
+    2100018: Bentwood Box 1768_99 a-d-02#8
+    2100020: Bentwood Box 1768_99 a-d-02#5
+    2100022: Bentwood Box 1768_99 a-d-02#6
+    2100024: Bentwood Box 1768_99 a-d-1#6
+    2100026: Bentwood Box 1768_99 a-d-1#1
+    2100028: Bentwood Box 1768_99 a-d-02#1
+    2100030: Bentwood Box 1768_99 a-d-1#2
+    2300000: Box
+    2300002: Lid
+    3300000: Box
+    3300002: Lid
+    4300000: Mesh Lid
+    4300002: Mesh Box
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bentwood Box 1768_99 a-d-02#1
+    second: {fileID: 2100000, guid: 8518895947755415e80b258a6781d57c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bentwood Box 1768_99 a-d-02#2
+    second: {fileID: 2100000, guid: 3676aa522ab7d4dc2b45ca870f9ef8f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bentwood Box 1768_99 a-d-02#3
+    second: {fileID: 2100000, guid: c496e750263d848ca864a00f55bb3cdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bentwood Box 1768_99 a-d-02#4
+    second: {fileID: 2100000, guid: 15002901aa7d840a8b95bb6b442e19ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bentwood Box 1768_99 a-d-02#5
+    second: {fileID: 2100000, guid: 658e26b56d4b74db7878d3196f05c3d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bentwood Box 1768_99 a-d-02#6
+    second: {fileID: 2100000, guid: c5f7fcc54cdc345059c2abc0b64d1325, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bentwood Box 1768_99 a-d-02#7
+    second: {fileID: 2100000, guid: b85518c9cdde9499e926564e188bafed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bentwood Box 1768_99 a-d-02#8
+    second: {fileID: 2100000, guid: b2086bdc283214db5a12480c750b2879, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bentwood Box 1768_99 a-d-03
+    second: {fileID: 2100000, guid: 1f7d2a7aabbb1447a8a00b7ab063bd84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bentwood Box 1768_99 a-d-1
+    second: {fileID: 2100000, guid: 17ad7c0b2d3344792a2c6d36125220a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bentwood Box 1768_99 a-d-1#1
+    second: {fileID: 2100000, guid: 6cc683f8ae04044b0a96bedaf3193635, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bentwood Box 1768_99 a-d-1#2
+    second: {fileID: 2100000, guid: c03d9b16017d844b4af0bc08feb4db40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bentwood Box 1768_99 a-d-1#3
+    second: {fileID: 2100000, guid: 6369d919df6334b76915842c23765d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bentwood Box 1768_99 a-d-1#4
+    second: {fileID: 2100000, guid: 835725cd97f1e48c9a6a241aeb13e572, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bentwood Box 1768_99 a-d-1#6
+    second: {fileID: 2100000, guid: 64477f1ea729f4b67ab0d5f49962b2da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bentwood Box 1768_99 a-d-1#7
+    second: {fileID: 2100000, guid: 96e1e2e0c3416410fae720e5463d663c, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bentwood Box 1768_99 a-d-02
+    second: {fileID: 2800000, guid: 6e2d559fa99734eaa88d5852285b1844, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bentwood Box 1768_99 a-d-1
+    second: {fileID: 2800000, guid: 2a57eb98cc5f74e5e87280216e2700cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bentwood Box 1768_99 a-d-1#5
+    second: {fileID: 2800000, guid: b0ef6dcdfebe9484d973b897c60c6e30, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_Rhomish_Dropbox_Technoir-Before Vancouver_2.3.1 Textures Artifacts_Bentwood
+        Box 1768_99 a-d-01
+    second: {fileID: 2800000, guid: 94d0c162a367f4520a7517b636e6f288, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_Rhomish_Dropbox_Technoir-Before Vancouver_2.3.1 Textures Artifacts_Bentwood
+        Box 1768_99 a-d-03
+    second: {fileID: 2800000, guid: 7141c803b81184e29a6250920fab6200, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
