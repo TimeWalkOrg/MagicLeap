@@ -673,7 +673,8 @@ PlayerSettings:
   luminVersion:
     m_VersionCode: 1
     m_VersionName: Mac
-  luminPrivilege: []
+  luminPrivilege:
+  - WorldReconstruction
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: f4631c27-f81e-41df-b205-76127bd1faf9
