@@ -157,7 +157,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Lumin: com.timewalk.timewalkmac
+    Lumin: com.timewalk.timewalkml01
     Standalone: com.Company.ProductName
   buildNumber: {}
   AndroidBundleVersionCode: 1
@@ -661,18 +661,15 @@ PlayerSettings:
   cloudServicesEnabled: {}
   luminIcon:
     m_Name: 
-    m_ModelFolderPath: /Users/tedbarnett/Dropbox (barnettlabs)/Work 2017/TimeWalk/Magic
-      Leap dev/Icon folders/Icon/Model
-    m_PortalFolderPath: /Users/tedbarnett/Dropbox (barnettlabs)/Work 2017/TimeWalk/Magic
-      Leap dev/Icon folders/Icon/Portal
+    m_ModelFolderPath: 
+    m_PortalFolderPath: 
   luminCert:
-    m_CertPath: /Users/tedbarnett/Dropbox (barnettlabs)/Work 2017/TimeWalk/Magic Leap
-      dev/TempSharedCert/TempSharedCert.cert
+    m_CertPath: F:/Desktop/Magic Leap Developer/TempSharedCert/TempSharedCert.cert
     m_PrivateKeyPath: 
   luminIsChannelApp: 0
   luminVersion:
     m_VersionCode: 1
-    m_VersionName: Mac
+    m_VersionName: ML
   luminPrivilege:
   - WorldReconstruction
   facebookSdkVersion: 7.9.4
