@@ -15,7 +15,8 @@ public class TestController : MonoBehaviour {
     public GameObject Object03;
     public GameObject Object04;
     public GameObject Object05;
-    public AudioSource TrainSound;
+    public List<GameObject> allObjects;
+    public int objectIndex = 0;
     #endregion
 
     #region Private Variables
@@ -69,7 +70,10 @@ public class TestController : MonoBehaviour {
             Object03.SetActive(false);
             Object04.SetActive(false);
             Object05.SetActive(false);
-            //TrainSound.Stop();
+            for(int i = 0; i < allObjects.Count; i++)
+            {
+                allObjects[i].SetActive(false);
+            }
             _instructions.NextPage(true);
             _vignette.Reset();
         }
@@ -111,7 +115,6 @@ public class TestController : MonoBehaviour {
                 Object02.SetActive(false);
                 Object03.SetActive(false);
             }
-        //TrainSound.Play();
         //_vignette.ToggleVignetteState();
         _vignette.Reset();
     }

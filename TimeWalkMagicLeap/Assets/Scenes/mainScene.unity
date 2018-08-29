@@ -5000,7 +5000,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &151332920
 Transform:
   m_ObjectHideFlags: 0
@@ -5148,7 +5148,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &160637359
 Transform:
   m_ObjectHideFlags: 0
@@ -5302,7 +5302,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &289167247
 Transform:
   m_ObjectHideFlags: 0
@@ -10426,6 +10426,14 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 400004, guid: 54adf39ebeb6e4342a60b7d84d36eee5, type: 3}
   m_PrefabInternal: {fileID: 729846906}
+--- !u!1 &757719624 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 102052, guid: bbd792d4b1cd1af4c8ed6b4c19977d94, type: 3}
+  m_PrefabInternal: {fileID: 1332685934}
+--- !u!4 &757719625 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 402052, guid: bbd792d4b1cd1af4c8ed6b4c19977d94, type: 3}
+  m_PrefabInternal: {fileID: 1332685934}
 --- !u!1 &807454758 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 100004, guid: 54adf39ebeb6e4342a60b7d84d36eee5, type: 3}
@@ -10978,6 +10986,7 @@ Transform:
   - {fileID: 1259454437}
   - {fileID: 729846907}
   - {fileID: 1801762249}
+  - {fileID: 757719625}
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: -176.895, z: 0}
@@ -16106,6 +16115,52 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!1001 &1332685934
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 900270213}
+    m_Modifications:
+    - target: {fileID: 402052, guid: bbd792d4b1cd1af4c8ed6b4c19977d94, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 402052, guid: bbd792d4b1cd1af4c8ed6b4c19977d94, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 402052, guid: bbd792d4b1cd1af4c8ed6b4c19977d94, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 402052, guid: bbd792d4b1cd1af4c8ed6b4c19977d94, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 402052, guid: bbd792d4b1cd1af4c8ed6b4c19977d94, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 402052, guid: bbd792d4b1cd1af4c8ed6b4c19977d94, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 402052, guid: bbd792d4b1cd1af4c8ed6b4c19977d94, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 402052, guid: bbd792d4b1cd1af4c8ed6b4c19977d94, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 102052, guid: bbd792d4b1cd1af4c8ed6b4c19977d94, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: bbd792d4b1cd1af4c8ed6b4c19977d94, type: 3}
+  m_IsPrefabParent: 0
 --- !u!1 &1347139566
 GameObject:
   m_ObjectHideFlags: 0
@@ -16277,7 +16332,14 @@ MonoBehaviour:
   Object03: {fileID: 1259454436}
   Object04: {fileID: 807454758}
   Object05: {fileID: 1764563569}
-  TrainSound: {fileID: 570607325}
+  allObjects:
+  - {fileID: 1310371599}
+  - {fileID: 1885711925}
+  - {fileID: 1259454436}
+  - {fileID: 807454758}
+  - {fileID: 1764563569}
+  - {fileID: 757719624}
+  objectIndex: 0
 --- !u!4 &1461463958
 Transform:
   m_ObjectHideFlags: 0
@@ -21564,7 +21626,7 @@ GameObject:
   - component: {fileID: 1955982526}
   - component: {fileID: 1955982525}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
